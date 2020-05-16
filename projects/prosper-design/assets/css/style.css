@@ -1,0 +1,29 @@
+/* 
+    Created on : 
+    Author     : 
+*/
+
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+
+:root{
+    --themeColorA: #dd336b;
+    --themeColorA_h: #f4407c;
+}
+
+.container{
+    padding: 50px 10px;
+    background-color: red;
+}
+
+/*HEADER*/
+.main_header{
+    background: #000;
+    color: #fff;
+}
+
+.main_header .container{
+    padding: 25px 0 0 0;
+}
+
