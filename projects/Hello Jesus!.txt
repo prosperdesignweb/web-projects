@@ -1,5 +1,0 @@
-Hello Jesus!
-
-Esse é o primeiro arquivo para testar o trackeamento do Git.
-
-JESUS CRISTO É O SENHOR!
